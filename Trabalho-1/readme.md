@@ -27,7 +27,7 @@
 | Insertion Sort Sentinela | 0.3202s   | 0.0004s  | 0.6221s   |
 | Shell Sort Gap/3         | 0.0067s   | 0.0027s  | 0.0045s   |
 
-## Tempo de Execução - n = 10.000
+## n = 10.000
 
 | Algoritmo                | Aleatório | Ordenado | Invertido |
 |--------------------------|-----------|----------|-----------|
