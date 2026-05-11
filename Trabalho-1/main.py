@@ -108,7 +108,7 @@ def shell_sort_gap3(arr):
         gap = gap // 3 + 1 if gap > 1 else 0
 
 def main(): 
-    n = 5000
+    n = 10000
 
     dados_random    = gerador_aleatorio(1, 100_000, n)
     dados_ordenado  = sorted(dados_random)
